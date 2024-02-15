@@ -32,11 +32,11 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.ccssoft.mopclient.chongqing</string>
+               <string>com.wangzz.accountmanage</string>
                <key>bundle-version</key>
-               <string>1.0.0</string>
+               <string>1.1</string>
                <key>kind</key>
-               <string>software</string>
+               <string>Utilities</string>
                <key>subtitle</key>
                <string>掌上综调</string>
                <key>title</key>
